@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-markup-visual-editor/static/css/main.df79b042.css",
+    "main.js": "/git-markup-visual-editor/static/js/main.a9bedaa1.js",
+    "index.html": "/git-markup-visual-editor/index.html",
+    "main.df79b042.css.map": "/git-markup-visual-editor/static/css/main.df79b042.css.map",
+    "main.a9bedaa1.js.map": "/git-markup-visual-editor/static/js/main.a9bedaa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df79b042.css",
+    "static/js/main.a9bedaa1.js"
+  ]
+}
